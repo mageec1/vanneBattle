@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.2.1" timestamp="Sun Dec 16 08:52:20 GMT 2012">
+   <file name="E:/doc2/fabholding/VanneBattle/code/generique/appSuperController.as">
+      <violation beginline="10" endline="10" begincolumn="9" endcolumn="9" rule="adobe.ac.pmd.rules.style.ImportFromSamePackage" ruleset="All Flex Rules" package="code.generique" class="appSuperController.as" externalInfoUrl="http://opensource.adobe.com/svn/opensource/flexpmd/bin/flex-pmd-ruleset-creator.html?rule=" priority="3">Imports from the same package are not necessary. </violation>
+   </file>
+   <file name="E:/doc2/fabholding/VanneBattle/code/generique/appSuperView.as">
+      <violation beginline="4" endline="4" begincolumn="9" endcolumn="9" rule="adobe.ac.pmd.rules.style.ImportFromSamePackage" ruleset="All Flex Rules" package="code.generique" class="appSuperView.as" externalInfoUrl="http://opensource.adobe.com/svn/opensource/flexpmd/bin/flex-pmd-ruleset-creator.html?rule=" priority="3">Imports from the same package are not necessary. </violation>
+   </file>
+   <file name="E:/doc2/fabholding/VanneBattle/fluidresize/code/ResizeStage.as">
+      <violation beginline="9" endline="9" begincolumn="9" endcolumn="9" rule="adobe.ac.pmd.rules.style.ImportFromSamePackage" ruleset="All Flex Rules" package="fluidresize.code" class="ResizeStage.as" externalInfoUrl="http://opensource.adobe.com/svn/opensource/flexpmd/bin/flex-pmd-ruleset-creator.html?rule=" priority="3">Imports from the same package are not necessary. </violation>
+   </file>
+</pmd>
